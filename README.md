@@ -42,4 +42,5 @@ Parcel-TailwindCss 安装目录/dist
 - [Parcel 文档](https://parceljs.org/getting_started.html)
 - [Tailwind Css 文档](https://tailwindcss.com/docs/installation)
 - Parcel-TailwindCss [留言网址](https://github.com/acuteapple/parcel-tailwindcss/issues)
+
 Parcel-TailwindCss 是使用 Parcel 和 Tailwind Css。Parcel 主要起粘合剂的作用，把网页设计的资源 html, css, javascripts 等文件作为资源整合在一起，还可以做代码压缩，多浏览器显示修复等功能。Tailwind Css 是一种实用优先的 CSS框架，负责让网页看起来更漂亮。这 2 种工具使用起来，设计网页好处多多，但是学习起来并不简单。
