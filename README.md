@@ -7,8 +7,10 @@ Parcel-TailwindCss 是使用 Parcel 和 Tailwind Css 进行设计网页的项目
 - Yarn
 - 操作系统，看着办吧，选一个顺手的。
 ## Parcel-TailwindCss 怎样安装？
+```
 git clone https://github.com/acuteapple/parcel-tailwindcss
 cd parcel-tailwindcss
+```
 ## Parcel-TailwindCss 设计网页的目录是哪一个？
 ```
 Parcel-TailwindCss 安装目录/src
