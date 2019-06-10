@@ -10,6 +10,7 @@ Parcel-TailwindCss 是使用 Parcel 和 Tailwind Css 进行设计网页的项目
 ```
 git clone https://github.com/acuteapple/parcel-tailwindcss
 cd parcel-tailwindcss
+yarn
 ```
 ## Parcel-TailwindCss 设计网页的目录是哪一个？
 ```
